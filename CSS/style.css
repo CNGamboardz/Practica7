@@ -24,6 +24,38 @@ body{
     background-size: 100% 100%;
 }
 
+.AreaPrincipal1{
+    background-image: url(https://i.pinimg.com/564x/87/c8/a2/87c8a2fa27e1f36c1834b5603217c9bf.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+}
+
+.AreaPrincipal2{
+    background-image: url(https://i.pinimg.com/564x/87/c8/a2/87c8a2fa27e1f36c1834b5603217c9bf.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+}
+
+.AreaPrincipal3{
+    background-image: url(https://i.pinimg.com/564x/87/c8/a2/87c8a2fa27e1f36c1834b5603217c9bf.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+}
+
+.AreaPrincipal4{
+    background-image: url(https://i.pinimg.com/564x/87/c8/a2/87c8a2fa27e1f36c1834b5603217c9bf.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+}
+
 #Menu{
     height: 40px;
     position: relative;
@@ -54,13 +86,57 @@ li:hover{
 
 #Datos{
     width: 80%;
-    background-color: #0800ff;
+    background-color: #ff0000;
     height: 600px;
     margin: auto;
     opacity: 1;
     color: black;
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+#Datos1{
+    width: 90%;
+    background-color: #aedfdf;
+    height: 750px;
+    margin: auto;
+    opacity: 1;
+    color: black;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+#Datos2{
+    width: 90%;
+    background-color: #ffffff;
+    height: 750px;
+    margin: auto;
+    opacity: 1;
+    color: black;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+#Datos3{
+    width: 90%;
+    background-color: #ffffff;
+    height: 750px;
+    margin: auto;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;  
+}
+
+#Datos4{
+    width: 90%;
+    background-color: #e5e4c5;
+    height: 750px;
+    margin: auto;
+    opacity: 1;
+    color: black;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;  
 }
 
 .PiePagina{
