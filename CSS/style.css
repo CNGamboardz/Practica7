@@ -72,3 +72,7 @@ li:hover{
     position: fixed;
     left: 0;
 }
+
+p{
+    color: black;
+}
